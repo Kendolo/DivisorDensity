@@ -1,0 +1,7 @@
+C:\Users\Julian\Documents\Projekte\Divisor density\bin\Debug\Divisor density.exe.config
+C:\Users\Julian\Documents\Projekte\Divisor density\bin\Debug\Divisor density.exe
+C:\Users\Julian\Documents\Projekte\Divisor density\bin\Debug\Divisor density.pdb
+C:\Users\Julian\Documents\Projekte\Divisor density\obj\Debug\Divisor density.csproj.AssemblyReference.cache
+C:\Users\Julian\Documents\Projekte\Divisor density\obj\Debug\Divisor density.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Documents\Projekte\Divisor density\obj\Debug\Divisor density.exe
+C:\Users\Julian\Documents\Projekte\Divisor density\obj\Debug\Divisor density.pdb
